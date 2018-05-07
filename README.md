@@ -4,7 +4,7 @@
 `npm install -g testcafe`
 
 #### 2. Clone GitHub repository
-`git clone https://github.com/ryanbsherrill/upside_assessment.git`
+`git clone https://github.com/ryanbsherrill/swe_in_test_assessment.git`
 
 #### 3. Change directories into project folder
 `cd upside_assessment`
