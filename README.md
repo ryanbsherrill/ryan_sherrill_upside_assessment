@@ -4,10 +4,10 @@
 `npm install -g testcafe`
 
 #### 2. Clone GitHub repository
-`git clone https://github.com/ryanbsherrill/swe_in_test_assessment.git`
+`git clone https://github.com/ryanbsherrill/ryan_sherrill_upside_assessment.git`
 
 #### 3. Change directories into project folder
-`cd upside_assessment`
+`cd ryan_sherrill_upside_assessment`
 
 #### 4. Run tests: ```<testcafe + browser + test file>```
 `testcafe chrome ui_tests.js || testcafe safari ui_tests.js || testcafe firefox ui_tests.js`
